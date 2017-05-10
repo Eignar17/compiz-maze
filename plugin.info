@@ -1,0 +1,2 @@
+PLUGIN = maze
+PKG_DEP = compiz-cube
