@@ -32,6 +32,7 @@
 
 #include <signal.h>
 #include <unistd.h>
+#include <math.h>
 #include <GL/glu.h>
 
 #include <compiz-core.h>
